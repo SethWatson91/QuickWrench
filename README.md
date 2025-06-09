@@ -1,4 +1,3 @@
-
 # QuickWrench
 A vehicle maintenance shop management app for tracking customers, vehicles, services, and invoices.
 
